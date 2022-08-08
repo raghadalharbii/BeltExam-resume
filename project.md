@@ -1,4 +1,5 @@
 ---
+
 # Raghad Alharbi
 DevOps trainee at Saudi Digital Academy || information system
 
@@ -40,6 +41,34 @@ Ministry of Communications and Information Technology
 solution makers
 
 
+
+
+## Projects
+
+5 projects i have done in the DevOps bootcamp
+<div id="webaddress">
+<a href="https://github.com/raghadalharbii/docker-jenkins-cicd.git">docker-jenkins-cicd</a>
+
+</div>
+<div id="webaddress">
+<a href="https://github.com/raghadalharbii/docker-flask.git">docker-flask</a>
+
+</div>
+<div id="webaddress">
+<a href="https://github.com/raghadalharbii/dotnet-core-deploy.git">dotnet-core-deploy</a>
+
+</div>
+<div id="webaddress">
+<a href="https://github.com/raghadalharbii/api-test-dotnet.git">api-test-dotnet</a>
+
+</div>
+<div id="webaddress">
+<a href="https://github.com/raghadalharbii/selenium-project.git">selenium-project</a>
+
+</div>
+
+
 <!-- ### Footer
 
 Last updated: June 2022 -->
+
